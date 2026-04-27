@@ -2,9 +2,6 @@
 
 Template [Smplx](https://github.com/BlockstreamResearch/smplx) repository for ad-hoc simplicity smart contracts development.
 
-> [!NOTE]
-> The tempalate assumes that the framework has already been installed via [`simplexup`](https://github.com/BlockstreamResearch/smplx/blob/master/simplexup/README.md).
-
 ## Overview
 
 The repository structure is the following:
@@ -18,6 +15,9 @@ root
 ├── Cargo.toml — The project's Rust configuration
 └── Simplex.toml — The project's Simplex configuration
 ```
+
+> [!NOTE]
+> The tempalate assumes that the framework has already been installed via [`simplexup`](https://github.com/BlockstreamResearch/smplx/blob/master/simplexup/README.md).
 
 ## How to use
 
